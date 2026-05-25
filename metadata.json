@@ -1,0 +1,6 @@
+{
+  "name": "Aarogya Night Gold",
+  "description": "Premium Ayurvedic male wellness landing page for vitality, stamina, and energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
